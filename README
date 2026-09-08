@@ -1,32 +1,36 @@
-# Leap Day — VIP Unlocked Backup
+# 🐸 Leap Day - VIP & All Characters Unlocked
 
-Copia de seguridad personal de **Leap Day** con todas las funciones VIP y contenido desbloqueado.
-
----
-
-## 🚀 Características de esta versión
-* **Suscripción VIP Activa:** Acceso ilimitado a todos los días anteriores del calendario.
-* **Sin Anuncios:** Publicidad eliminada por completo.
-* **Personajes Desbloqueados:** Todos los personajes y trajes accesibles.
-* **Progresión Conservada:** Compatible con guardado local de partidas.
+Respaldo modificado de **Leap Day** con VIP y personajes desbloqueados. Este proyecto incluye las instrucciones de instalación y los archivos necesarios alojados en Releases.
 
 ---
 
-## 🛠️ Requisitos de Instalación
+## 🚀 Guía de Instalación
 
-> **Importante:** Para que las compras emuladas y la verificación del VIP funcionen correctamente en tu dispositivo, **es necesario tener instalado Lucky Patcher** (o su servidor proxy de compras InApp activado).
+Sigue estos pasos en orden para asegurar la correcta activación de los personajes VIP y niveles:
 
-1. Asegúrate de tener **Lucky Patcher** instalado en tu dispositivo Android.
-2. Activa el **Servidor Proxy para emulación de compras** desde la sección *Interruptores* en Lucky Patcher.
-3. Descarga e instala el archivo `.apk` de esta versión desde la sección de **Releases**.
-4. Al abrir el juego e intentar restaurar o seleccionar cualquier elemento VIP/compras, pulsa **Sí** en la ventana flotante de Lucky Patcher.
-
----
-
-## 👤 Créditos
-* **Desarrollo original:** [Nitrome](https://www.nitrome.com/)
-* **Modificación y Parcheo:** Parcheado y preparado por **SputnikContent** usando Lucky Patcher (InApp & LVL Emulation).
+### Paso 1: Prueba Inicial (Solo con el juego)
+1. Ve a la sección de **[Releases / Descargas](https://github.com/SputnikContent/LeapDayVIP-AllCharacters_AllLevels/releases/tag/Requiredfiles)** y descarga únicamente el archivo `Leap_Day_1.142.2.xapk`.
+2. Instala la aplicación en tu dispositivo y ábrela.
+3. Al iniciar, el juego te pedirá seleccionar una opción para guardar tu nivel.
+4. **Verificación:** Si todo funciona correctamente:
+   - Comenzarás a recibir automáticamente los regalos de los personajes VIP.
+   - Todos los niveles anteriores cargarán al instante sin necesidad de ver anuncios en video.
 
 ---
 
-> ⚠️ *Este repositorio es para fines exclusivamente educativos y de respaldo personal.*
+### Paso 2: En caso de problemas (Instalación con Proxy)
+Si el juego no activa los beneficios VIP o te da errores al entrar:
+1. Desinstala completamente **Leap Day** de tu teléfono.
+2. Descarga e instala el archivo **`TmONDdzCRo_12.10.8.apk`** (Lucky Patcher con nombre protegido) desde la sección de **Releases**.
+3. Abre la app de Lucky Patcher una vez para asegurarte de que el servicio proxy de emulación esté activo en tu sistema.
+4. Vuelve a descargar e instalar **Leap Day**.
+5. Abre el juego y verifica que los regalos VIP se entreguen correctamente.
+
+---
+
+## 📥 Enlace de Descarga Directa
+
+> 🔗 **[👉 Ir a la sección de Releases para descargar los APKs](https://github.com/SputnikContent/LeapDayVIP-AllCharacters_AllLevels/releases/tag/Requiredfiles)**
+
+---
+*Nota: Asegúrate de habilitar la instalación de orígenes desconocidos en tu dispositivo Android para instalar los archivos.*
